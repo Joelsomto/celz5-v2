@@ -1,6 +1,6 @@
 # Ignore the 'works' folder
 works/
-admin/
+admin/default/works
 
 # Optional good practices
 *.log
