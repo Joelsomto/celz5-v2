@@ -1,0 +1,12 @@
+# Ignore the 'works' folder
+works/
+
+# Optional good practices
+*.log
+*.env
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
